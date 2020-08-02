@@ -12,4 +12,4 @@ This is the implementation file of the thread pool. The function executed by the
   make
   ./main
 ```
-make clean will cremove executable files.
+make clean will remove executable files.
